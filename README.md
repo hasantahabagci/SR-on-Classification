@@ -9,6 +9,7 @@ Image super-resolution (ISR) is a technique aimed at converting low-resolution i
 ## Dataset
 
 The ImageNet dataset, containing over 14 million annotated images across more than 21 thousand classes, serves as the foundation for our experiments. We focus on the validation set of the ImageNet dataset to assess the classification performance, using top-1 accuracy as our primary metric.
+Dataset Link: https://drive.google.com/file/d/1-NMdq6z9OdZtOYs3EDdJDDI9yC2ZkTNd/view?usp=sharing
 
 ## Data Preparation
 
